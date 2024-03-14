@@ -45,3 +45,9 @@ Essentially, neighbor embedding is a search for a new and less-dimensional data 
 
 Reference: Visual data analysis in Python. Part 1. Visualization: from Simple Distributions to Dimensionality Reduction, mlcourse.ai – Open Machine Learning Course
 https://mlcourse.ai/book/topic02/topic02_visual_data_analysis.html
+
+## Data Visualization_03
+
+- Contain Demo Assigment with solution from mlcourse.ai</br></br>
+
+Reference: https://mlcourse.ai/book/topic02/assignment02_analyzing_cardiovascular_desease_data.html
